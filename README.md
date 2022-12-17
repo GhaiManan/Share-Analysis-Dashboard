@@ -13,3 +13,6 @@ The dashboard performs an analysis of the user data and provides us with graphic
 ## 4. Live Link
 One can run the project live by running the attached notebook or by following the [link](https://colab.research.google.com/drive/1gN8q3fl817QgWl8WKF9p3gEepmmLXzmx).
 ## 5. Screenshot of the Interface
+![dp1](https://user-images.githubusercontent.com/94312529/208244399-9cc7e9e9-d0e0-4772-8fe4-2372f6527c5d.PNG)
+![dp2](https://user-images.githubusercontent.com/94312529/208244406-04586ded-3eba-4558-ba29-1db8b68fc87e.PNG)
+![dp3](https://user-images.githubusercontent.com/94312529/208244412-236b6fee-e07e-4e23-bf3f-99bcb2db8552.PNG)
